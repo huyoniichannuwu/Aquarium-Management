@@ -26,12 +26,6 @@ QLThuyCung/
 pip install pyodbc
 ```
 
-## Cách chạy
-
-```bash
-cd QLThuyCung
-python main.py
-```
 
 ## Đăng nhập demo
 
