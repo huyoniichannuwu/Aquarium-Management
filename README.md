@@ -6,10 +6,13 @@
 
 ```
 QLThuyCung/
-├── main.py              ← Chạy file này để khởi động
+├── main_Menu.py            ← Chạy file này để khởi động
 ├── database.py          ← Kết nối SQL Server
 ├── tab_khach_hang.py    ← Tab Khách hàng
-├── tab_quan_ly.py       ← Tab Nhân viên Quản lý
+├── tab_NV_Quanly.py       ← Tab Nhân viên Quản lý
+    tab_NV_Kiembanve.py
+    tab_NV_Kythuat.py
+    tab_NV_Chamsoc.py
 └── README.md
 ```
 
